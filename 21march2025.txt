@@ -1,0 +1,5 @@
+1) Implementation Of Push And Pull Operations
+2) Implementation Of Fork Operations
+3) Implementation Of Merge and Rebase (Using GitBash)
+4) Implementation Of Collaborations 
+5) Implementation Of Branch Merging Using Github
